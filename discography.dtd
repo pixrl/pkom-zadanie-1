@@ -1,0 +1,15 @@
+<!ELEMENT music (info, cd*)>
+<!ELEMENT info (name, authors, modified)>
+
+<!ELEMENT topic (#PCDATA)>
+<!ELEMENT authors (person+)>
+
+<!ELEMENT person (name, surname)>
+<!ATTLIST person id ID #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>
+
+<!ELEMENT modified EMPTY>
+<!ATTLIST modified
+    %calendar
+        person CDATA #REQUIRED>
