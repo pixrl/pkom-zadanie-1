@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type='text/css' href='discography.css'?>
-<!DOCTYPE muzyka SYSTEM 'discography.dtd'>
+<!DOCTYPE music SYSTEM 'discography.dtd'>
 <music>
     <info>
-        <topic>Kolekcja muzyki</topic>
+        <topic>Music collection</topic>
         <authors>
-            <person id='210231'>
+            <person id='id_210231'>
                 <name>Szymon</name>
                 <surname>Koziarski</surname>
             </person>
         </authors>
-        <modified day="09" month="october" year="2019"/>
+        <modified day="9" month="October" year="2019" person='id_210231'/>
     </info>
-    <cd id='p1' author='210231'>
+    <cd id='p1' author='id_210231'>
         <title>House of Balloons</title>
         <artist>The Weeknd</artist>
         <songs>
@@ -30,15 +30,15 @@
             House of Balloons is the debut mixtape by Canadian singer The Weeknd. It was released as a free download on March 21, 2011, by XO.
         </description>
         <genres>
-            <genre type="R &amp; B" />
+            <genre type="Rap" />
         </genres>
         <released>
-            <world day='21' month='march' year='2011'/>
+            <world day='21' month='March' year='2011'/>
         </released>
         <score value='4.0'/>
         <price currency="PLN">39,99</price>
     </cd>
-    <cd id='p2' author='210231'>
+    <cd id='p2' author='id_210231'>
         <title>Thursday</title>
         <artist>The Weeknd</artist>
         <songs>
@@ -56,7 +56,7 @@
             Thursday is the second mixtape by Canadian singer The Weeknd, independently released on August 18, 2011. It follows his critically acclaimed, Polaris Music Prize-nominated debut mixtape House of Balloons (2011).
         </description>
         <genres>
-            <genre type="R &amp; B" />
+            <genre type="Rap" />
         </genres>
         <released>
             <world day='16' month='November' year='2012'/>
@@ -64,7 +64,7 @@
         <score value='4.0'/>
         <price currency="PLN">49,99</price>
     </cd>
-    <cd id='p3' author='210231'>
+    <cd id='p3' author='id_210231'>
         <title>Echoes of Silence</title>
         <artist>The Weeknd</artist>
         <songs>
@@ -82,7 +82,7 @@
             Echoes of Silence is the third mixtape by Canadian singer The Weeknd, released on December 21, 2011, by his official website.The release follows his Polaris Music Prize-nominated debut release House of Balloons and his second mixtape Thursday, both released earlier the same year.
         </description>
         <genres>
-            <genre type="R &amp; B" />
+            <genre type="Rap" />
         </genres>
         <released>
             <world day='21' month='December' year='2011'/>
@@ -90,7 +90,7 @@
         <score value='4.0'/>
         <price currency="PLN">43,99</price>
     </cd>
-    <cd id='p4' author='210231'>
+    <cd id='p4' author='id_210231'>
         <title>Starboy</title>
         <artist>The Weeknd</artist>
         <songs>
@@ -117,10 +117,8 @@
             Starboy is the third studio album by Canadian singer The Weeknd. It was released on November 25, 2016, by Republic Records and XO.
         </description>
         <genres>
-            <genre type="R &amp; B" />
-            <genre type="Alternative R &amp; B" />
-            <genre type="new wave" />
-            <genre type="pop" />
+            <genre type="Rap" />
+            <genre type="Pop" />
         </genres>
         <released>
             <world day='25' month='November' year='2016'/>
@@ -128,7 +126,7 @@
         <score value='3.5'/>
         <price currency="PLN">39,99</price>
     </cd>
-    <cd id='p5' author='210231'>
+    <cd id='p5' author='id_210231'>
         <title>Views</title>
         <artist>Drake</artist>
         <songs>
@@ -157,9 +155,8 @@
             Views is the fourth studio album by Canadian rapper Drake. It was released on April 29, 2016, by Cash Money Records, Republic Records and Young Money Entertainment.
         </description>
         <genres>
-            <genre type="R &amp; B dancehall" />
-            <genre type="Hip hop" />
-            <genre type="pop" />
+            <genre type="Rap" />
+            <genre type="Pop" />
         </genres>
         <released>
             <world day='29' month='April' year='2016'/>
@@ -167,7 +164,7 @@
         <score value='4.0'/>
         <price currency="PLN">49,99</price>
     </cd>
-    <cd id='p6' author='210231'>
+    <cd id='p6' author='id_210231'>
         <title>If You're Reading This It's Too Late</title>
         <artist>Drake</artist>
         <songs>
@@ -195,8 +192,8 @@
             If You're Reading This It's Too Late is a commercial mixtape by Canadian rapper Drake. It was released through the iTunes Store without prior announcement on February 13, 2015, by Cash Money Records.
         </description>
         <genres>
-            <genre type="Hip hop" />
-            <genre type="trap" />
+            <genre type="Hiphop" />
+            <genre type="Trap" />
         </genres>
         <released>
             <world day='13' month='February' year='2015'/>
@@ -204,7 +201,7 @@
         <score value='4.0'/>
         <price currency="PLN">39,99</price>
     </cd>
-    <cd id='p7' author='210231'>
+    <cd id='p7' author='id_210231'>
         <title>More Life</title>
         <artist>Drake</artist>
         <songs>
@@ -235,9 +232,8 @@
             More Life is a commercial mixtape by Canadian rapper Drake. Described and marketed as a playlist, some publications have referred to it as a mixtape.
         </description>
         <genres>
-            <genre type="Hip hop" />
-            <genre type="dancehall" />
-            <genre type="R &amp; B" />
+            <genre type="Hiphop" />
+            <genre type="Rap" />
         </genres>
         <released>
             <world day='18' month='March' year='2017'/>
@@ -245,7 +241,7 @@
         <score value='4.0'/>
         <price currency="PLN">39,99</price>
     </cd>
-    <cd id='p8' author='210231'>
+    <cd id='p8' author='id_210231'>
         <title>Christmas</title>
         <artist>Michael Bublé</artist>
         <songs>
@@ -270,12 +266,9 @@
             Christmas is the seventh studio album and fifth major label studio album released by Canadian singer Michael Bublé. The album was released on October 21, 2011 in Ireland, October 24, 2011 in the United Kingdom, and October 25, 2011 in the United States.
         </description>
         <genres>
-            <genre type="Christmas" />
-            <genre type="Dixieland" />
-            <genre type="swing" />
-            <genre type="traditional pop" />
-            <genre type="easy listening" />
-            <genre type="jazz" />
+            <genre type="Swing" />
+            <genre type="Pop" />
+            <genre type="Jazz" />
         </genres>
         <released>
             <world day='24' month='October' year='2011'/>
@@ -283,7 +276,7 @@
         <score value='4.0'/>
         <price currency="PLN">29,99</price>
     </cd>
-    <cd id='p9' author='210231'>
+    <cd id='p9' author='id_210231'>
         <title>Songs for Swingin' Lovers!</title>
         <artist>Frank Sinatra</artist>
         <songs>
@@ -308,8 +301,8 @@
         </description>
         <genres>
             <genre type="Swing" />
-            <genre type="traditional pop" />
-            <genre type="jazz" />
+            <genre type="Pop" />
+            <genre type="Jazz" />
         </genres>
         <released>
             <world day='20' month='January' year='1987'/>
@@ -317,7 +310,7 @@
         <score value='4.0'/>
         <price currency="PLN">19,99</price>
     </cd>
-    <cd id='p10' author='210231'>
+    <cd id='p10' author='id_210231'>
         <title>Come Fly with Me</title>
         <artist>Frank Sinatra</artist>
         <songs>
@@ -341,8 +334,8 @@
             Come Fly with Me is an album by American singer Frank Sinatra, released in 1958.
         </description>
         <genres>
-            <genre type="vocal jazz" />
-            <genre type="traditional pop" />
+            <genre type="Jazz" />
+            <genre type="Pop" />
         </genres>
         <released>
             <world day='6' month='January' year='1958'/>
@@ -350,7 +343,7 @@
         <score value='5.0'/>
         <price currency="PLN">19,99</price>
     </cd>
-    <cd id='p11' author='210231'>
+    <cd id='p11' author='id_210231'>
         <title>Songs for Young Lovers</title>
         <artist>Frank Sinatra</artist>
         <songs>
@@ -367,8 +360,8 @@
             Songs for Young Lovers is the seventh studio album by Frank Sinatra and his first on Capitol Records. It was issued as an 8-song, 10" album (Capitol H-488) and as a 45rpm EP set, but it was the first Sinatra "album" not to have a 78rpm multi-disc-album release.
         </description>
         <genres>
-            <genre type="vocal jazz" />
-            <genre type="traditional pop" />
+            <genre type="Jazz" />
+            <genre type="Pop" />
         </genres>
         <released>
             <world day='5' month='November' year='1954'/>
@@ -376,7 +369,7 @@
         <score value='4.5'/>
         <price currency="PLN">19,99</price>
     </cd>
-    <cd id='p12' author='210231'>
+    <cd id='p12' author='id_210231'>
         <title>Giant Steps</title>
         <artist>John Coltrane</artist>
         <songs>
@@ -392,7 +385,7 @@
             Giant Steps is the fifth studio album by jazz musician John Coltrane as leader, released in 1960 on Atlantic Records, catalogue SD 1311.
         </description>
         <genres>
-            <genre type="jazz" />
+            <genre type="Jazz" />
         </genres>
         <released>
             <world day='27' month='January' year='1960'/>
@@ -400,7 +393,7 @@
         <score value='5.0'/>
         <price currency="PLN">19,99</price>
     </cd>
-    <cd id='p13' author='210231'>
+    <cd id='p13' author='id_210231'>
         <title>My Favorite Things</title>
         <artist>John Coltrane</artist>
         <songs>
@@ -413,7 +406,7 @@
             My Favorite Things is the seventh studio album by jazz musician John Coltrane, released in 1961 on Atlantic Records, catalogue SD-1361. It was the first album to feature Coltrane playing soprano saxophone.
         </description>
         <genres>
-            <genre type="modal jazz" />
+            <genre type="Jazz" />
         </genres>
         <released>
             <world day='1' month='March' year='1961'/>
@@ -421,7 +414,7 @@
         <score value='5.0'/>
         <price currency="PLN">19,99</price>
     </cd>
-    <cd id='p14' author='210231'>
+    <cd id='p14' author='id_210231'>
         <title>Blue Train</title>
         <artist>John Coltrane</artist>
         <songs>
@@ -435,7 +428,7 @@
             Blue Train is a studio album by John Coltrane, released in 1958 on Blue Note Records, catalogue BLP 1577. Recorded at the Van Gelder Studio in Hackensack, New Jersey.
         </description>
         <genres>
-            <genre type="Hard bop" />
+            <genre type="Jazz" />
         </genres>
         <released>
             <world day='15' month='September' year='1957'/>
@@ -443,7 +436,7 @@
         <score value='5.0'/>
         <price currency="PLN">19,99</price>
     </cd>
-    <cd id='p15' author='210231'>
+    <cd id='p15' author='id_210231'>
         <title>Duke Ellington &amp; John Coltrane</title>
         <artist>Duke Ellington &amp; John Coltrane</artist>
         <songs>
@@ -467,7 +460,7 @@
         <score value='4.5'/>
         <price currency="PLN">19,99</price>
     </cd>
-    <cd id='p16' author='210231'>
+    <cd id='p16' author='id_210231'>
         <title>The Imagine Project</title>
         <artist>Herbie Hancock</artist>
         <songs>
@@ -494,7 +487,7 @@
         <score value='4.0'/>
         <price currency="PLN">24,99</price>
     </cd>
-    <cd id='p17' author='210231'>
+    <cd id='p17' author='id_210231'>
         <title>Underground</title>
         <artist>Thelonious Monk</artist>
         <songs>
@@ -518,7 +511,7 @@
         <score value='4.5'/>
         <price currency="PLN">19,99</price>
     </cd>
-    <cd id='p18' author='210231'>
+    <cd id='p18' author='id_210231'>
         <title>Disney Songs the Satchmo Way</title>
         <artist>Louis Armstrong</artist>
         <songs>
@@ -538,7 +531,6 @@
         </description>
         <genres>
             <genre type="Jazz" />
-            <genre type="vocal Jazz" />
         </genres>
         <released>
             <world day='1' month='May' year='1968'/>
@@ -546,7 +538,7 @@
         <score value='3.0'/>
         <price currency="PLN">19,99</price>
     </cd>
-    <cd id='p19' author='210231'>
+    <cd id='p19' author='id_210231'>
         <title>The Brecker Bros.</title>
         <artist>Brecker Brothers</artist>
         <songs>
@@ -564,8 +556,8 @@
             The Brecker Bros. is the debut album by the American jazz fusion group, the Brecker Brothers. It was released by Arista Records in 1975.
         </description>
         <genres>
-            <genre type="Jazz fusion" />
-            <genre type="Jazz funk" />
+            <genre type="Jazz" />
+            <genre type="Funk" />
         </genres>
         <released>
             <world day='1' month='September' year='1975'/>
@@ -573,7 +565,7 @@
         <score value='4.5'/>
         <price currency="PLN">29,99</price>
     </cd>
-    <cd id='p20' author='210231'>
+    <cd id='p20' author='id_210231'>
         <title>Serenity</title>
         <artist>Stan Getz</artist>
         <songs>
